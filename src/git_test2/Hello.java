@@ -3,7 +3,8 @@ package git_test2;
 public class Hello {
 	
 	public void say() {
-	System.out.println("안녕하세요");
+		Hello h = new Hello();
+		h.say();
 		// TODO Auto-generated method stub
 	}
 }
