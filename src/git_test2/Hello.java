@@ -10,6 +10,6 @@ public class Hello {
 		 this.message = message; 
 		 } 
 	public String say() {
-		 return message; 
+		 return message;
 		 }
 }
